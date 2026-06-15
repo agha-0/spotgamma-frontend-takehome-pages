@@ -3,8 +3,8 @@ self.__BUILD_MANIFEST = {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/spotgamma-frontend-takehome//_next/:path+",
-        "destination": "/spotgamma-frontend-takehome/_next/:path+"
+        "source": "/spotgamma-frontend-takehome-pages//_next/:path+",
+        "destination": "/spotgamma-frontend-takehome-pages/_next/:path+"
       }
     ],
     "fallback": []
